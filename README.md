@@ -1,9 +1,9 @@
 # INT3133_20_Requirement_Engineering
 
 # Team members
-1. Nguyen Thi Thuy Huong
-2. Le Hoang Minh
-3. Pham Hoang Hiep
-4. Dinh Trung Kien
-5. Tran Ba Hoang
+1. 22028005	- Phạm Hoàng Hiệp
+2. 21020631	- Trần Bá Hoàng
+3. 21020467	- Nguyễn Thị Thúy Hường
+4. 21020636	- Đinh Trung Kiên
+5. 22028048	- Lê Hoàng Minh
 
