@@ -10,6 +10,7 @@
 3. 21020467	- Nguyễn Thị Thúy Hường
 4. 21020636	- Đinh Trung Kiên
 5. 22028048	- Lê Hoàng Minh
+
 ## Đề tài
 Hệ thống quản lý tài chính - Trường Đại học Công nghệ 
 
@@ -19,3 +20,11 @@ Hệ thống quản lý tài chính - Trường Đại học Công nghệ
 3. Xác định các nhu cầu thực sự của các bên liên quan trong ngữ cảnh hệ thống mới.
 4. Đưa ra một số hướng (tùy chọn) mà hệ thống mới đáp ứng được nhu cầu trên
 5. Phụ lục để minh chứng việc vận dụng các kỹ thuật được học để phân tích miền và khám phá/thu thập yêu cầu
+
+## Assignment 2
+1. Tài liệu mô tả việc vận dụng các kỹ thuật đánh giá yêu cầu
+2. Tài liệu đặc tả yêu cầu phần mềm 
+    - Sử dụng mẫu đặc tả IEEE
+    - Đưa vào các mô hình hệ thống
+3. Hoàn thiện tài liệu đề xuất (draft proposal)
+    - Bổ sung các mô hình hệ thống 
